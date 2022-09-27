@@ -1,3 +1,6 @@
+fever
+mirchi
+big
 Crimson
 Orange
 Green
